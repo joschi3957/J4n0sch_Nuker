@@ -15,4 +15,4 @@
 
 
 ### Important!
-- I am not responsible for anythings that are be done when using this tool!
+- I am not responsible for anything that are be done when using this tool!
