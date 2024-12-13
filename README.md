@@ -11,6 +11,7 @@
 - git clone https://github.com/joschi3957/J4n0sch_Nuker/
 - `cd J4n0sch_Nuker`
 - pip install -r requirements.txt
+- python main.py
 
 
 ### Important!
