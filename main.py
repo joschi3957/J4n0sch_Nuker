@@ -13,7 +13,7 @@ client = commands.Bot(command_prefix="!", intents = discord.Intents.all())
 client.remove_command('help')
 ######################################setup########################################
 
-token = "enter your token here"
+token = input('Enter your token here: ')
 
 channel_names = ['Fucked by J4n0sch', 'Csgo on top', 'Fucked By J4n0sch', 'J4n0sch op', 'https://i.pinimg.com/originals/60/5c/d4/605cd48fb2eec1967e0662936a610db0.gif']
 message_spam = ['@everyone GET FUCKED BY J4N0SCH', '@everyone J4N0SCH  OWNS YOU', '@everyone J4N0SCH piss on you', '@everyone']
