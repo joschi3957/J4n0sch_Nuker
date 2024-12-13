@@ -1,0 +1,4 @@
+discord
+colorama
+random
+asyncio
